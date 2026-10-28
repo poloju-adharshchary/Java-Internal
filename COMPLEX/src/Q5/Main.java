@@ -16,8 +16,6 @@ public class Main extends JFrame implements ActionListener {
         l = new JLabel("");
         l.setFont(new Font("Arial", Font.BOLD, 20));
         add(l);
-        //l.setHorizontalAlignment(JLabel.CENTER);
-
         r = new JRadioButton("Red");
         y = new JRadioButton("Yellow");
         g = new JRadioButton("Green");
